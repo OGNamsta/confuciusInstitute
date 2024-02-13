@@ -1,0 +1,40 @@
+2024-02-08 18:36:48,410 - INFO - Processing label: C-Africa
+2024-02-08 18:36:48,411 - INFO - Checking cache file: Caches/C-Africa.json
+2024-02-08 18:36:48,411 - INFO - Reading existing C-Africa.json cache...
+2024-02-08 18:36:48,412 - INFO - C-Africa.json cache loaded
+2024-02-08 18:36:48,412 - INFO - Using cached data for C-Africa
+2024-02-08 18:36:48,412 - INFO - Reading existing C-Africa.txt file...
+2024-02-08 18:36:48,413 - INFO - C-Africa.txt is already up to date
+2024-02-08 18:36:48,413 - INFO - Created C-Africa.txt with 47 countries
+2024-02-08 18:36:48,413 - INFO - Processing label: C-Asia
+2024-02-08 18:36:48,413 - INFO - Checking cache file: Caches/C-Asia.json
+2024-02-08 18:36:48,414 - INFO - Reading existing C-Asia.json cache...
+2024-02-08 18:36:48,415 - INFO - C-Asia.json cache loaded
+2024-02-08 18:36:48,415 - INFO - Using cached data for C-Asia
+2024-02-08 18:36:48,415 - INFO - Reading existing C-Asia.txt file...
+2024-02-08 18:36:48,416 - INFO - C-Asia.txt is already up to date
+2024-02-08 18:36:48,416 - INFO - Created C-Asia.txt with 37 countries
+2024-02-08 18:36:48,416 - INFO - Processing label: C-Europe
+2024-02-08 18:36:48,416 - INFO - Checking cache file: Caches/C-Europe.json
+2024-02-08 18:36:48,416 - INFO - Reading existing C-Europe.json cache...
+2024-02-08 18:36:48,417 - INFO - C-Europe.json cache loaded
+2024-02-08 18:36:48,417 - INFO - Using cached data for C-Europe
+2024-02-08 18:36:48,417 - INFO - Reading existing C-Europe.txt file...
+2024-02-08 18:36:48,418 - INFO - C-Europe.txt is already up to date
+2024-02-08 18:36:48,418 - INFO - Created C-Europe.txt with 39 countries
+2024-02-08 18:36:48,418 - INFO - Processing label: C-America
+2024-02-08 18:36:48,418 - INFO - Checking cache file: Caches/C-America.json
+2024-02-08 18:36:48,418 - INFO - Reading existing C-America.json cache...
+2024-02-08 18:36:48,419 - INFO - C-America.json cache loaded
+2024-02-08 18:36:48,419 - INFO - Using cached data for C-America
+2024-02-08 18:36:48,420 - INFO - Reading existing C-America.txt file...
+2024-02-08 18:36:48,420 - INFO - C-America.txt is already up to date
+2024-02-08 18:36:48,420 - INFO - Created C-America.txt with 27 countries
+2024-02-08 18:36:48,420 - INFO - Processing label: C-Oceania
+2024-02-08 18:36:48,420 - INFO - Checking cache file: Caches/C-Oceania.json
+2024-02-08 18:36:48,420 - INFO - Reading existing C-Oceania.json cache...
+2024-02-08 18:36:48,421 - INFO - C-Oceania.json cache loaded
+2024-02-08 18:36:48,421 - INFO - Using cached data for C-Oceania
+2024-02-08 18:36:48,422 - INFO - Reading existing C-Oceania.txt file...
+2024-02-08 18:36:48,422 - INFO - C-Oceania.txt is already up to date
+2024-02-08 18:36:48,422 - INFO - Created C-Oceania.txt with 5 countries
